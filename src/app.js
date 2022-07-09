@@ -1,8 +1,8 @@
 import * as yup from 'yup';
 import onChange from 'on-change';
 import axios from 'axios';
-import parse from './parser.js';
-import makeRendering from './view.js';
+import parse from './parser';
+import makeRendering from './view';
 
 export default (state, i18nextInstance) => {
   const proxyUrl = 'https://allorigins.hexlet.app/get?disableCache=true&url=';

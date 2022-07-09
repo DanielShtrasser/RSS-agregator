@@ -1,6 +1,6 @@
 import i18next from 'i18next';
-import runApp from './app.js';
-import resources from './lokales/index.js';
+import runApp from './app';
+import resources from './lokales/index';
 
 export default () => {
   const state = {
