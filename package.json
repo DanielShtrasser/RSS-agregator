@@ -1,5 +1,5 @@
 {
-  "name": "@rss-agregator/education_projekt",
+  "name": "@rss-agregator/education_project",
   "version": "1.0.0",
   "description": "RSS-agregator",
   "main": "./src/init.js",
